@@ -7,7 +7,7 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}**,<br>
+Hi I am **{{ site.author.name }}** ,<br>
 possibly a corgi, most definitely not!  Either way there are really neat things I am up to!
 
 <div class="row">
