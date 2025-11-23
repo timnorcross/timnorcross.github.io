@@ -26,6 +26,6 @@ The above plot is a simple line plot of the count of reports, or rows of the dat
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/jnaiman/online_cv_public/blob/main/python_notebooks/test_generate_plots.ipynb" text="The Analysis" %}
+{% include elements/button.html link="https://github.com/timnorcross/timnorcross.github.io/blob/main/python_notebooks/Workbook_hw5.ipynb" text="The Analysis" %}
 </div>
 
