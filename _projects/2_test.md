@@ -1,7 +1,7 @@
 ---
 name: Homework 5
 tools: [Python, HTML, vega-lite]
-image: assets/pngs/cars.png
+image: assets/pngs/hw5.png
 description: This is my project for HW 5
 custom_js:
   - vega.min
